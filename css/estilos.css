@@ -32,4 +32,9 @@ body {
 
 #containder h1 {
     font-size: 20px;
-} 
+}
+
+#footer {
+    color: #00b341;
+    font-weight: bold;
+}
